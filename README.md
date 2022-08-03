@@ -1,2 +1,4 @@
-# awesome-ai-art
-A curated list of resources for AI/Generative Art
+# Awesome AI Art
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of AI & Generative Art resources
