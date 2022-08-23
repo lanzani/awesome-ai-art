@@ -10,6 +10,7 @@ A curated list of AI & Generative Art resources
 - [DALL·E 2 Prompt Engineering Guide](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit)
 
 # Composite Pieces
+- [DALL-E Fashon show](https://twitter.com/paultrillo/status/1562106954096381952)
 - [Depictions of the feeling associated with various phobias](https://twitter.com/deKxi/status/1547796833011138562)
 - [A Bunnies Tale](https://twitter.com/dbonneville/status/1522453742095900672)
 - [The Egg by Andy Weir— Illustrated With DALL•E 2](https://medium.com/@lanzani/the-egg-by-andy-weir-illustrated-with-dalle2-76282cd47948)
