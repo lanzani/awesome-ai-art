@@ -15,3 +15,6 @@ A curated list of AI & Generative Art resources
 - [A Bunnies Tale](https://twitter.com/dbonneville/status/1522453742095900672)
 - [The Egg by Andy Weir— Illustrated With DALL•E 2](https://medium.com/@lanzani/the-egg-by-andy-weir-illustrated-with-dalle2-76282cd47948)
 - [The Story of LaMDA — Illustrated With DALL•E 2](https://medium.com/@lanzani/the-story-of-lamda-illustrated-with-dall-e-2-d1bf9c246fe)
+
+# Guides
+- [How To Use #DreamStudio #StableDiffusion To Create A Traditional Illustration.](https://twitter.com/dbonneville/status/1562653976717185024)
