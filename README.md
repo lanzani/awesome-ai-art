@@ -24,3 +24,6 @@ A curated list of AI & Generative Art resources
 
 # Guides
 - [How To Use #DreamStudio #StableDiffusion To Create A Traditional Illustration.](https://twitter.com/dbonneville/status/1562653976717185024)
+
+# Artists
+- 
