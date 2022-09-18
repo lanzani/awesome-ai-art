@@ -12,7 +12,7 @@ A curated list of AI & Generative Art resources
 # Midjourney
 
 # Stable Diffusion
-- [Colab tensorflow implementation](https://colab.research.google.com/drive/1fBlfPsL5DEscub0O_3oJNnJbON4w3EKq?usp=sharing#scrollTo=aLNWmnmECS-j)
+- [Colab stable diffusion tensorflow](https://colab.research.google.com/drive/1fBlfPsL5DEscub0O_3oJNnJbON4w3EKq?usp=sharing#scrollTo=aLNWmnmECS-j)
 
 # Applications
 - [DALL-E Fashon show](https://twitter.com/paultrillo/status/1562106954096381952)
